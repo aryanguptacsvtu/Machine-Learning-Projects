@@ -83,7 +83,7 @@ movies, similarity = load_data()
 # --- API Call and HTML Template Functions ---
 def fetch_movie_details(movie_title):
     try: api_key = st.secrets["omdb_api_key"]
-    except (FileNotFoundError, KeyError): api_key = '801bc839' # Fallback key
+    except (FileNotFoundError, KeyError): api_key = 'your_api_key_here' # Fallback key
 
     url = f"http://www.omdbapi.com/?t={movie_title}&apikey={api_key}"
     try:
@@ -97,7 +97,6 @@ def fetch_movie_details(movie_title):
         return None
     except requests.exceptions.RequestException: return None
 
-# ****************** FIX IS HERE ******************
 # Added **kwargs to accept and ignore extra arguments like 'plot'
 def recommendation_card_html(title, year, poster, **kwargs):
     return f'<div class="card"><img src="{poster}" alt="{title} poster"><div class="card-text"><h5>{title}</h5><p>{year}</p></div></div>'
