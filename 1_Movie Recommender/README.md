@@ -68,10 +68,11 @@ To run this project locally, follow these steps:
 ```
 
 5.  **Run the Jupyter Notebook :**
+
     If you want to train the model yourself, run the `code.ipynb` notebook. This will use the `tmdb_5000_credits.csv` and `tmdb_5000_movies.csv` file  to generate the `movies_dict.pkl` , `movies.pkl` and `similarity.pkl` files.
 
 
-6.  **Run the application:**
+7.  **Run the application:**
 ```bash
     streamlit run frontend.py
 ```
