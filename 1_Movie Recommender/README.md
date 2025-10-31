@@ -56,7 +56,6 @@ To run this project locally, follow these steps:
 ```
 
 
-
 3.  **Get Your API Key:**
     * This project uses the **OMDb API** to fetch movie posters and details.
     * Sign up for a free API key at [omdbapi.com/apikey.aspx](https://www.omdbapi.com/apikey.aspx).
@@ -67,7 +66,12 @@ To run this project locally, follow these steps:
     [omdb_api_key]
     api_key = "YOUR_API_KEY_HERE"
 ```
-5.  **Run the application:**
+
+5.  **Run the Jupyter Notebook :**
+    If you want to train the model yourself, run the `code.ipynb` notebook. This will use the `tmdb_5000_credits.csv` and `tmdb_5000_movies.csv` file  to generate the `movies_dict.pkl` , `movies.pkl` and `similarity.pkl` files.
+
+
+6.  **Run the application:**
 ```bash
     streamlit run frontend.py
 ```
