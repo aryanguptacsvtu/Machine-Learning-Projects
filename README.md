@@ -30,6 +30,8 @@ Here is a list of the projects currently in this repository:
 2.  **[Email Spam Classifier](./2_Email%20Spam%20Classifier/)**
     * A classic Natural Language Processing (NLP) project to classify emails as "spam" or "ham" (not spam). This project likely involves text preprocessing and a classification model like Naive Bayes or Logistic Regression.
 
+3.  **[Heart Disease Predictor](./3_Heart%20Disease%20Predictor/)**
+    * A Streamlit web app that uses multiple machine learning models (Logistic Regression, SVM, Random Forest) to predict the likelihood of heart disease based on patient data. Features single and bulk prediction modes.
 
 ---
 
