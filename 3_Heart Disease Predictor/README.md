@@ -62,6 +62,7 @@ To run this project locally, follow these steps:
 
 
 4.  **Ensure Model Files are Present:**
+   
     This app requires the pre-trained model files to be in the same root directory. Make sure you have:
     * `LogisticRegression.pkl`
     * `SVM.pkl`
@@ -69,7 +70,7 @@ To run this project locally, follow these steps:
     * `RandomForest.pkl`
 
 
-5.  **Run the application:**
+6.  **Run the application:**
 ```bash
     streamlit run frontend.py
 ```
