@@ -33,8 +33,11 @@ Here is a list of the projects currently in this repository:
 3.  **[Heart Disease Predictor](./3_Heart%20Disease%20Predictor/)**
     * A Streamlit web app that uses multiple machine learning models (Logistic Regression, SVM, Random Forest) to predict the likelihood of heart disease based on patient data. Features single and bulk prediction modes.
 
-4.  **[IPL Win Predictor](./5_IPL%20Win%20Predictor/)**
-    * A ball-by-ball win probability predictor for IPL second-innings chases. Trained on historical IPL data (2008–2019) across 8 active franchises, using a Logistic Regression pipeline with features like runs left, balls left, wickets in       hand, current run rate etc.
+4.  **[Laptop Price Predictor](./4_Laptop%20Price%20Predictor/)**
+    * A regression-based machine learning project that predicts laptop prices based on specifications such as brand, processor type, RAM, storage, GPU, screen size, and operating system. It also includes an interactive Streamlit web application for real-time price prediction.
+
+5.  **[IPL Win Predictor](./5_IPL%20Win%20Predictor/)**
+    * A ball-by-ball win probability predictor for IPL second-innings chases. Trained on historical IPL data (2008–2019) across 8 active franchises, using a Logistic Regression pipeline with features like runs left, balls left, wickets in hand, current run rate etc.
 ---
 
 ## 💻 Technologies Used
