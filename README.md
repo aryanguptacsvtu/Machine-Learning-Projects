@@ -38,6 +38,9 @@ Here is a list of the projects currently in this repository:
 
 5.  **[IPL Win Predictor](./5_IPL%20Win%20Predictor/)**
     * A ball-by-ball win probability predictor for IPL second-innings chases. Trained on historical IPL data (2008–2019) across 8 active franchises, using a Logistic Regression pipeline with features like runs left, balls left, wickets in hand, current run rate etc.
+  
+6.  **[Book Recommender System](./6_Book%20Recommender/)**
+    * A dual-mode book discovery app built with Popularity-Based and Collaborative Filtering. Trained on the Book-Crossing dataset, it surfaces trending titles on the home page and recommends 5 similar books for any title the user selects -- all wrapped in a clean Streamlit UI.
 ---
 
 ## 💻 Technologies Used
