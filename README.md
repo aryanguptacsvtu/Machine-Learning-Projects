@@ -41,6 +41,9 @@ Here is a list of the projects currently in this repository:
   
 6.  **[Book Recommender System](./6_Book%20Recommender/)**
     * A dual-mode book discovery app built with Popularity-Based and Collaborative Filtering. Trained on the Book-Crossing dataset, it surfaces trending titles on the home page and recommends 5 similar books for any title the user selects -- all wrapped in a clean Streamlit UI.
+  
+7.  **[Fake News Detector](./7_Fake%20News%20Detector/)**
+    * An NLP-based binary classifier that detects whether a news article is Real or Fake. Trained on a labeled dataset of more than 40,000 articles using TF-IDF vectorization & Logistic Regression. Features a Streamlit UI with real-time prediction and confidence scoring.
 ---
 
 ## 💻 Technologies Used
