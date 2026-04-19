@@ -22,28 +22,17 @@ My Machine Learning portfolio, showcasing various models and techniques on diver
 
 ## 🚀 Projects Included
 
-Here is a list of the projects currently in this repository:
 
-1.  **[Movie Recommender System](./1_Movie%20Recommender/)**
-    * A project focused on building a recommendation engine to suggest movies to users, likely using techniques like collaborative filtering or content-based filtering.
-
-2.  **[Email Spam Classifier](./2_Email%20Spam%20Classifier/)**
-    * A classic Natural Language Processing (NLP) project to classify emails as "spam" or "ham" (not spam). This project likely involves text preprocessing and a classification model like Naive Bayes or Logistic Regression.
-
-3.  **[Heart Disease Predictor](./3_Heart%20Disease%20Predictor/)**
-    * A Streamlit web app that uses multiple machine learning models (Logistic Regression, SVM, Random Forest) to predict the likelihood of heart disease based on patient data. Features single and bulk prediction modes.
-
-4.  **[Laptop Price Predictor](./4_Laptop%20Price%20Predictor/)**
-    * A regression-based machine learning project that predicts laptop prices based on specifications such as brand, processor type, RAM, storage, GPU, screen size, and operating system. It also includes an interactive Streamlit web application for real-time price prediction.
-
-5.  **[IPL Win Predictor](./5_IPL%20Win%20Predictor/)**
-    * A ball-by-ball win probability predictor for IPL second-innings chases. Trained on historical IPL data (2008–2019) across 8 active franchises, using a Logistic Regression pipeline with features like runs left, balls left, wickets in hand, current run rate etc.
-  
-6.  **[Book Recommender System](./6_Book%20Recommender/)**
-    * A dual-mode book discovery app built with Popularity-Based and Collaborative Filtering. Trained on the Book-Crossing dataset, it surfaces trending titles on the home page and recommends 5 similar books for any title the user selects -- all wrapped in a clean Streamlit UI.
-  
-7.  **[Fake News Detector](./7_Fake%20News%20Detector/)**
-    * An NLP-based binary classifier that detects whether a news article is Real or Fake. Trained on a labeled dataset of more than 40,000 articles using TF-IDF vectorization & Logistic Regression. Features a Streamlit UI with real-time prediction and confidence scoring.
+| Project | Description |
+|---|---|
+| [🎬 Movie Recommender System](./1_Movie%20Recommender/) | Recommendation engine using collaborative & content-based filtering to suggest movies. |
+| [📧 Email Spam Classifier](./2_Email%20Spam%20Classifier/) | NLP classifier to detect spam vs. ham emails using TF-IDF & Naive Bayes / Logistic Regression. |
+| [❤️ Heart Disease Predictor](./3_Heart%20Disease%20Predictor/) | Streamlit app using Logistic Regression, SVM & Random Forest with single and bulk prediction modes. |
+| [💻 Laptop Price Predictor](./4_Laptop%20Price%20Predictor/) | Regression model predicting laptop prices from specs like brand, RAM, GPU & storage, with a Streamlit UI. |
+| [🏏 IPL Win Predictor](./5_IPL%20Win%20Predictor/) | Ball-by-ball win probability predictor for IPL second-innings chases using Logistic Regression. |
+| [📚 Book Recommender System](./6_Book%20Recommender/) | Dual-mode app with Popularity-Based & Collaborative Filtering on the Book-Crossing dataset. |
+| [📰 Fake News Detector](./7_Fake%20News%20Detector/) | Binary NLP classifier trained on 40,000+ articles using TF-IDF & Logistic Regression with confidence scoring. |
+| [🏡 House Price Predictor](./8_House%20Price%20Predictor/) | Regression app predicting California median house values using a tuned HistGradientBoosting model. |
 ---
 
 ## 💻 Technologies Used
