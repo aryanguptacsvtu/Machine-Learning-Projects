@@ -7,7 +7,8 @@ The project comes with a user-friendly Streamlit prediction interface.
 
 ## 🗂️ Project Structure
 
-```python
+```
+House-Price-Predictor/
 ├── housing.csv          # Raw dataset
 ├── notebook.ipynb       # Full ML pipeline 
 ├── app.py               # Streamlit web application
