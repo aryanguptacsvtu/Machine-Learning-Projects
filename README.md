@@ -33,6 +33,7 @@ My Machine Learning portfolio, showcasing various models and techniques on diver
 | [📚 Book Recommender System](./6_Book%20Recommender/) | Dual-mode app with Popularity-Based & Collaborative Filtering on the Book-Crossing dataset. |
 | [📰 Fake News Detector](./7_Fake%20News%20Detector/) | Binary NLP classifier trained on 40,000+ articles using TF-IDF & Logistic Regression with confidence scoring. |
 | [🏡 House Price Predictor](./8_House%20Price%20Predictor/) | Regression app predicting California median house values using a tuned HistGradientBoosting model. |
+| [🚢 Titanic Survival Predictor](./9_Titanic%20Survival%20Predictor/) | Classification app predicting Titanic passenger survival using Random Forest on various features. |
 ---
 
 ## 💻 Technologies Used
