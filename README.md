@@ -36,6 +36,7 @@ My Machine Learning portfolio, showcasing various models and techniques on diver
 | [🚢 Titanic Survival Predictor](./9_Titanic%20Survival%20Predictor/) | Classification app predicting Titanic passenger survival using Random Forest on various features. |
 | [📞 Customer Churn Predictor](./10_Customer%20Churn%20Predictor/) | Streamlit app predicting telecom customer churn using a Random Forest model trained on 19 features. |
 | [🩺 Diabetes Predictor](/11_Diabetes%20Predictor/) | SVM-based classifier predicting diabetes risk from 8 health indicators with a Streamlit UI. |
+| [💳 Credit Risk Modelling](./12_Credit%20Risk%20Modelling/) | Binary classifier predicting loan applicant credit risk (Good/Bad) using the German Credit Dataset. |
 ---
 
 ## 💻 Technologies Used
