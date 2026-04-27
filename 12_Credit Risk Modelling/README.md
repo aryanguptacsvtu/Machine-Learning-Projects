@@ -38,7 +38,7 @@ This project tackles a binary classification problem in the financial domain. Gi
 | **Risk** | **Target** | **good / bad** |
 
 
----+
+---
 
 ## ⚙️ ML Pipeline
 
